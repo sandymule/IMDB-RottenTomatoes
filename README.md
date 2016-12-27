@@ -1,7 +1,8 @@
 #Title: IMDB - RottenTomatoes Ratings Prediction
 
-##Goal 
-To predict Domestic Gross Revenue from Ratings. As shown in the presentation, I ended up adding dummy variables for MPAA Ratings and Movie Studios as well.
+##Project Summary
+Movie theaters enlisted us to predict the Domestic Gross Revenue of movies in order to determine which movies to show in their theaters. In order to accomplish this, ratings information was gathered from IMDB and Rotten Tomatoes. Other information such as MPAA Ratings and which Movie Studio released the film were also included due to their predictive power.
+Using a multiple regression models, these features were able to predict the Domestic Gross Revenue of movies with an R squared of 0.47.
 
 ##Data Sources 
 Box Office Mojo, OMDB API (IMDB and Rotten Tomatoes info there)
