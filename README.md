@@ -1,4 +1,4 @@
-###Title: IMDB - RottenTomatoes Ratings Prediction
+#Title: IMDB - RottenTomatoes Ratings Prediction
 
 ##Goal 
 To predict Domestic Gross Revenue from Ratings. As shown in the presentation, I ended up adding dummy variables for MPAA Ratings and Movie Studios as well.
